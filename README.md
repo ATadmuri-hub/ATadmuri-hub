@@ -29,6 +29,7 @@ education:
 certifications:
   - Bloomberg: BMC, BFF, ESG, Spreadsheet Analysis (BQL)
   - McKinsey Forward Program
+  - R Programming A-Z (Udemy, 10.5 hrs)
   - EU Digital Competence Framework Level 6
 languages: Arabic (Native) | English (C1) | Turkish (C1) | Spanish (B2) | Persian (A2)
 interests: Real Estate Analytics, Survey Research, Agent-Based Modelling, ESG, Policy Analysis
