@@ -65,10 +65,11 @@ currently: Open to roles in data science, analytics consulting, market research,
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-FC8D62?style=for-the-badge)
 
-#### Tools & Platforms
+#### Data Collection & Tools
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-FF6F00?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![NetLogo](https://img.shields.io/badge/NetLogo-CC0000?style=for-the-badge)
 ![Bloomberg](https://img.shields.io/badge/Bloomberg_Terminal-000000?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge)
@@ -152,6 +153,32 @@ currently: Open to roles in data science, analytics consulting, market research,
 ![PCA](https://img.shields.io/badge/-PCA-2F4F4F?style=flat-square)
 ![Clustering](https://img.shields.io/badge/-Clustering-228B22?style=flat-square)
 `2,700 lines`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Data Harvesting UC3M](https://github.com/ATadmuri-hub/Data-Harvesting-uc3m-2026)
+
+> Web scraping, API integration, and automated data collection pipelines.
+
+- Web scraping with R (rvest, httr2, RSelenium)
+- REST API data extraction and pagination handling
+- Data cleaning, parsing, and structured storage
+- Automated collection pipelines for research and business intelligence
+
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/-Web_Scraping-FF6F00?style=flat-square)
+![API](https://img.shields.io/badge/-REST_API-009688?style=flat-square)
+`Team Project`
+
+</td>
+<td width="50%" valign="top">
+
+### More Coming Soon
+
+> Additional projects in survey research, text mining, and causal inference will be published after course completion.
 
 </td>
 </tr>
