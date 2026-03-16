@@ -32,9 +32,13 @@ certifications:
   - R Programming A-Z (Udemy, 10.5 hrs)
   - EU Digital Competence Framework Level 6
 languages: Arabic (Native) | English (C1) | Turkish (C1) | Spanish (B2) | Persian (A2)
-domains: Real Estate Investment Analytics, Market Research, Financial Analysis, ESG & Sustainability, Survey Research, B2B Analytics
-value: I translate raw data into revenue-driving insights — pricing models, customer segmentation, market forecasts, risk scoring
-currently: Open to roles in data science, analytics consulting, market research, and quantitative strategy
+domains:
+  business: Real Estate Investment Analytics, Market Research, Financial Analysis, ESG & Sustainability, B2B Analytics
+  policy: Political Analysis, Public Opinion & Polling, Welfare Policy, Migration & Integration, Electoral Forecasting
+  research: Survey Design & Analysis, Econometrics, Causal Inference, Geopolitical Risk Assessment
+background: BA International Studies + MSc Computational Social Science = quantitative methods applied to real-world political and business problems
+value: I translate raw data into revenue-driving insights and evidence-based policy recommendations
+currently: Open to roles in data science, analytics consulting, political research, market intelligence, and quantitative strategy
 ```
 
 <br/>
@@ -56,6 +60,10 @@ currently: Open to roles in data science, analytics consulting, market research,
 ![SHAP](https://img.shields.io/badge/SHAP-7B2D8E?style=for-the-badge)
 ![PCA](https://img.shields.io/badge/PCA-2F4F4F?style=for-the-badge)
 ![Survival Analysis](https://img.shields.io/badge/Survival_Analysis-8B0000?style=for-the-badge)
+![Causal Inference](https://img.shields.io/badge/Causal_Inference-4B0082?style=for-the-badge)
+![Econometrics](https://img.shields.io/badge/Econometrics-1B5E20?style=for-the-badge)
+![Survey Methods](https://img.shields.io/badge/Survey_Methods-0D47A1?style=for-the-badge)
+![Text Mining](https://img.shields.io/badge/Text_Mining-E65100?style=for-the-badge)
 
 #### Frameworks & Libraries
 ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
@@ -211,9 +219,11 @@ currently: Open to roles in data science, analytics consulting, market research,
 | **Pricing & Valuation** | Hedonic models, automated valuation, mispricing detection — built for real estate and retail |
 | **Market Intelligence** | District-level forecasts, competitor benchmarking, trend analysis across 60,000+ data points |
 | **Customer & Seller Segmentation** | Motivated-seller scoring, Superhost classification, discount probability models |
-| **Survey & Research Analytics** | End-to-end survey design, missing data handling, multilingual fieldwork coordination |
+| **Political & Policy Analysis** | Public opinion polling, electoral forecasting, welfare policy evaluation, migration research, geopolitical risk |
+| **Survey & Research Analytics** | End-to-end survey design (ESS, cross-national), missing data handling, multilingual fieldwork coordination |
 | **Financial Analysis** | Bloomberg-certified (BMC, BFF, ESG, BQL), portfolio risk scoring, scenario modelling |
-| **Multilingual Communication** | Arabic, English, Turkish, Spanish — B2B stakeholder reporting across 12+ international partners |
+| **Data Collection & Scraping** | Web scraping, REST API integration, automated data pipelines for market and political data |
+| **Multilingual Stakeholder Communication** | Arabic, English, Turkish, Spanish — policy briefings, B2B reporting, cross-border coordination (12+ partners) |
 
 </div>
 
