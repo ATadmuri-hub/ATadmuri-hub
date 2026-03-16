@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Abdullah%20Tadmuri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20MSc%20Computational%20Social%20Science%20%7C%20UC3M%20Madrid&descSize=16&descAlignY=55&descColor=cccccc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Abdullah%20Tadmuri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Analytics%20Consultant%20%7C%20Market%20Research&descSize=16&descAlignY=55&descColor=cccccc" width="100%"/>
 
 <br/>
 
-I build analytical tools that turn messy real-world data into actionable insight.
+I help businesses and organizations turn complex data into decisions that drive growth.
 
-Statistics, machine learning, and social science — applied to real estate, public policy, and platform economics.
+Data analytics, predictive modelling, and market intelligence — applied to real estate investment, financial services, market research, and B2B strategy.
 
 <br/>
 
@@ -32,8 +32,9 @@ certifications:
   - R Programming A-Z (Udemy, 10.5 hrs)
   - EU Digital Competence Framework Level 6
 languages: Arabic (Native) | English (C1) | Turkish (C1) | Spanish (B2) | Persian (A2)
-interests: Real Estate Analytics, Survey Research, Agent-Based Modelling, ESG, Policy Analysis
-currently: Open to roles in data science, research analytics, and quantitative consulting
+domains: Real Estate Investment Analytics, Market Research, Financial Analysis, ESG & Sustainability, Survey Research, B2B Analytics
+value: I translate raw data into revenue-driving insights — pricing models, customer segmentation, market forecasts, risk scoring
+currently: Open to roles in data science, analytics consulting, market research, and quantitative strategy
 ```
 
 <br/>
@@ -174,17 +175,18 @@ currently: Open to roles in data science, research analytics, and quantitative c
 
 <br/>
 
-## What I Bring to the Table
+## What I Deliver
 
 <div align="center">
 
 | | |
 |:---:|---|
-| **13,000+** | Lines of analytical R/Python code across 4 major projects |
-| **43** | Statistical and ML models trained, tuned, and evaluated |
-| **60,000+** | Real-world observations analyzed (listings, products, countries) |
-| **4** | Spoken languages for multilingual stakeholder communication |
-| **12** | Analytical phases in the most comprehensive single project |
+| **Pricing & Valuation** | Hedonic models, automated valuation, mispricing detection — built for real estate and retail |
+| **Market Intelligence** | District-level forecasts, competitor benchmarking, trend analysis across 60,000+ data points |
+| **Customer & Seller Segmentation** | Motivated-seller scoring, Superhost classification, discount probability models |
+| **Survey & Research Analytics** | End-to-end survey design, missing data handling, multilingual fieldwork coordination |
+| **Financial Analysis** | Bloomberg-certified (BMC, BFF, ESG, BQL), portfolio risk scoring, scenario modelling |
+| **Multilingual Communication** | Arabic, English, Turkish, Spanish — B2B stakeholder reporting across 12+ international partners |
 
 </div>
 
@@ -194,7 +196,7 @@ currently: Open to roles in data science, research analytics, and quantitative c
 
 <div align="center">
 
-*Open to roles in data science, research analytics, statistical consulting, and quantitative policy analysis.*
+*Open to roles in data science, analytics consulting, market research, and quantitative strategy.*
 
 <br/>
 
