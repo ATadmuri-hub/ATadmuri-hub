@@ -194,8 +194,6 @@ currently: Open to roles in data science, research analytics, and quantitative c
 
 <div align="center">
 
-*Currently completing my Master's thesis on agent-based modelling of refugee integration through community sport.*
-
 *Open to roles in data science, research analytics, statistical consulting, and quantitative policy analysis.*
 
 <br/>
