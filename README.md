@@ -233,7 +233,7 @@ currently: Open to roles in data science, analytics consulting, political resear
 
 <div align="center">
 
-*Open to roles in data science, analytics consulting, market research, and quantitative strategy.*
+*Open to new opportunities — let's connect.*
 
 <br/>
 
