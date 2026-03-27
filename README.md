@@ -195,21 +195,6 @@ looking for: Roles in data science, policy research, risk and intelligence analy
 
 <br/>
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ATadmuri-hub&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATadmuri-hub&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&hide=html,css,javascript&langs_count=6" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ATadmuri-hub&theme=github-dark-blue&hide_border=true&background=0d1117" width="60%"/>
-
-</div>
-
-<br/>
-
 ## What I Deliver
 
 <div align="center">
