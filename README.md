@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Abdullah%20Tadmuri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Analytics%20Consultant%20%7C%20Market%20Research&descSize=16&descAlignY=55&descColor=cccccc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Abdullah%20Tadmuri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computational%20Social%20Scientist%20%7C%20Policy%20Research%20%7C%20Data%20Science&descSize=16&descAlignY=55&descColor=cccccc" width="100%"/>
 
 <br/>
 
-I help businesses and organizations turn complex data into decisions that drive growth.
+I use data, simulation, and mixed methods to make sense of policy and social questions.
 
-Data analytics, predictive modelling, and market intelligence — applied to real estate investment, financial services, market research, and B2B strategy.
+From political science in Istanbul to policy research in Brussels to computational social science in Madrid. Currently finishing my MSc at UC3M.
 
 <br/>
 
@@ -25,20 +25,20 @@ name: Abdullah Tadmuri
 location: Madrid, Spain
 education:
   - MSc Computational Social Science (UC3M, 2025-2026)
-  - BA International Studies (UC3M, via Erasmus+ from Yildiz Technical University)
+  - BA International Studies (UC3M, via Erasmus+ from Yildiz Technical University, Istanbul)
+experience:
+  - Research Fellow, EuroMed Rights (Brussels, 2025): daily analysis on Syria and Turkiye, policymaker briefings, 12+ NGO coordination, Arabic/Turkish/English translation
 certifications:
   - Bloomberg: BMC, BFF, ESG, Spreadsheet Analysis (BQL)
   - McKinsey Forward Program
-  - R Programming A-Z (Udemy, 10.5 hrs)
-  - EU Digital Competence Framework Level 6
-languages: Arabic (Native) | English (C1) | Turkish (C1) | Spanish (B2) | Persian (A2)
+languages: Arabic (native) | English (C1) | Turkish (C1) | Spanish (B2) | Persian (A2)
+honors: 4x Matricula de Honor (highest academic distinction, UC3M)
 domains:
-  business: Real Estate Investment Analytics, Market Research, Financial Analysis, ESG & Sustainability, B2B Analytics
-  policy: Political Analysis, Public Opinion & Polling, Welfare Policy, Migration & Integration, Electoral Forecasting
-  research: Survey Design & Analysis, Econometrics, Causal Inference, Geopolitical Risk Assessment
-background: BA International Studies + MSc Computational Social Science = quantitative methods applied to real-world political and business problems
-value: I translate raw data into revenue-driving insights and evidence-based policy recommendations
-currently: Open to roles in data science, analytics consulting, political research, market intelligence, and quantitative strategy
+  computation: Agent-Based Modeling, ML Pipelines, Causal Inference, Social Network Analysis
+  policy: Political Analysis, Migration and Integration, Risk and Intelligence Analysis, ESG
+  research: Survey Methodology, Econometrics, Text Mining, Geopolitical Risk Assessment
+thesis: Applying agent-based modeling to social policy questions (supervisor: Prof. Anxo Sanchez)
+looking for: Roles in data science, policy research, risk and intelligence analysis, ESG analytics, or computational social science
 ```
 
 <br/>
@@ -216,14 +216,13 @@ currently: Open to roles in data science, analytics consulting, political resear
 
 | | |
 |:---:|---|
-| **Pricing & Valuation** | Hedonic models, automated valuation, mispricing detection — built for real estate and retail |
-| **Market Intelligence** | District-level forecasts, competitor benchmarking, trend analysis across 60,000+ data points |
-| **Customer & Seller Segmentation** | Motivated-seller scoring, Superhost classification, discount probability models |
-| **Political & Policy Analysis** | Public opinion polling, electoral forecasting, welfare policy evaluation, migration research, geopolitical risk |
-| **Survey & Research Analytics** | End-to-end survey design (ESS, cross-national), missing data handling, multilingual fieldwork coordination |
-| **Financial Analysis** | Bloomberg-certified (BMC, BFF, ESG, BQL), portfolio risk scoring, scenario modelling |
-| **Data Collection & Scraping** | Web scraping, REST API integration, automated data pipelines for market and political data |
-| **Multilingual Stakeholder Communication** | Arabic, English, Turkish, Spanish — policy briefings, B2B reporting, cross-border coordination (12+ partners) |
+| **Policy Research & Intelligence** | Daily analytical reporting, policymaker briefings, EU Parliament coverage, geopolitical risk monitoring (Syria, Turkiye, MENA) |
+| **Machine Learning Pipelines** | End-to-end supervised learning: classification, regression, SHAP interpretability, counterfactual analysis across 50,000+ observations |
+| **Agent-Based Modeling** | Computational simulation of social systems using NetLogo, applied to policy design and evaluation |
+| **Causal Inference & Econometrics** | Counterfactual analysis, survey methodology, social network analysis, bootstrap confidence intervals |
+| **ESG & Sustainability Analysis** | Bloomberg-certified (BMC, BFF, ESG, BQL), quantitative ESG risk assessment, climate risk |
+| **Data Collection & Scraping** | Web scraping (rvest, RSelenium), REST API integration, automated data pipelines for research |
+| **Multilingual Analysis** | Arabic (native), English, Turkish, Spanish: policy briefings, report translation, cross-border NGO coordination (12+ partners) |
 
 </div>
 
