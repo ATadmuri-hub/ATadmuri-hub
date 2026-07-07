@@ -21,26 +21,22 @@ From political science in Istanbul to policy research in Brussels to computation
 
 ## About Me
 
-```yaml
-name: Abdullah Tadmuri
-location: Madrid, Spain
-education:
-  - MSc Computational Social Science (UC3M, 2025-2026)
-  - BA International Studies (UC3M, via Erasmus+ from Yildiz Technical University, Istanbul)
-experience:
-  - Research Fellow, EuroMed Rights (Brussels, 2025): daily analysis on Syria and Turkiye, policymaker briefings, 12+ NGO coordination, Arabic/Turkish/English translation
-certifications:
-  - Bloomberg: BMC, BFF, ESG, Spreadsheet Analysis (BQL)
-  - McKinsey Forward Program
-languages: Arabic (native) | English (C1) | Turkish (C1) | Spanish (B2) | Persian (A2)
-honors: 2x Matricula de Honor, UC3M highest academic distinction (Statistics & Data Science II; Big Data & AI Ethics)
-domains:
-  computation: Agent-Based Modeling, ML Pipelines, Causal Inference, Social Network Analysis
-  policy: Political Analysis, Migration and Integration, Risk and Intelligence Analysis, ESG
-  research: Survey Methodology, Econometrics, Text Mining, Geopolitical Risk Assessment
-thesis: Agent-Based Modeling of Migrant Integration Through Community Sport (NetLogo + R, 14,110 runs, 23 scenarios; supervisor: Prof. Anxo Sanchez; code and data on Zenodo with DOI)
-looking for: Roles in data science, policy research, risk and intelligence analysis, ESG analytics, or computational social science
-```
+Computational social scientist trained across three countries: political science and IR in Istanbul, policy research in Brussels, and computational social science in Madrid. I build models that help decide before implementing, from agent-based policy simulators to ML pipelines on 50,000+ observations.
+
+<div align="center">
+
+| | |
+|---:|---|
+| **Education** | MSc Computational Social Science, UC3M (2025-2026) · BA International Studies, UC3M (via Erasmus+ from Yildiz Technical University, Istanbul) |
+| **Thesis** | *Agent-Based Modeling of Migrant Integration Through Community Sport* · NetLogo + R, 14,110 runs, 23 scenarios · Supervisor: Prof. Anxo Sanchez · Open code and data (Zenodo DOI) |
+| **Honors** | 2x Matricula de Honor, UC3M's highest academic distinction: Statistics & Data Science II · Big Data & AI Ethics |
+| **Experience** | Research Fellow, EuroMed Rights (Brussels, 2025): daily analysis on Syria and Turkiye, policymaker briefings, 12+ NGO coordination |
+| **Certifications** | Bloomberg Terminal: BMC · BFF · ESG · Spreadsheet Analysis (BQL) · McKinsey Forward Program |
+| **Languages** | Arabic (native) · English (C1) · Turkish (C1) · Spanish (B2) · Persian (A2) |
+| **Focus areas** | Agent-based modeling · Causal inference · Machine learning · Text mining · Social network analysis · ESG analytics · Geopolitical risk |
+| **Open to** | Data science · Policy research · Risk and intelligence analysis · ESG analytics · Computational social science |
+
+</div>
 
 <br/>
 
