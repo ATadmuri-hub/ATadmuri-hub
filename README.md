@@ -238,6 +238,42 @@ Computational social scientist trained across three countries: political science
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Dose-Response Analysis in Python](https://github.com/ATadmuri-hub/dose-response-python)
+
+> Thesis dose-response analysis ported from R to Python, statistics written by hand.
+
+- OLS, Gaussian AIC, and a nested F-test built directly on NumPy/SciPy
+- No statsmodels dependency
+- Kendall tau trend test, per-dose means with 95% CIs
+- Cross-checked against R to 11 significant figures
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+`412 lines`
+
+</td>
+<td width="50%" valign="top">
+
+### [The Algorithmic Right to Have Rights](https://github.com/ATadmuri-hub/algorithmic-right-to-have-rights)
+
+> The EU AI Act read against the fairness impossibility theorem.
+
+- Regulation (EU) 2024/1689 analysed against Chouldechova-KMR
+- Empirical demonstration on COMPAS recidivism data
+- Cross-national hiring audits and LLM training corpora
+- Three reproducible R figures, paper and LaTeX source
+
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![EU AI Act](https://img.shields.io/badge/-EU_AI_Act-003399?style=flat-square)
+`Matricula de Honor`
+
+</td>
+</tr>
 </table>
 </div>
 
