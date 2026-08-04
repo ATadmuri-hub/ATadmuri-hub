@@ -10,10 +10,10 @@ From political science in Istanbul to policy research in Brussels to computation
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-tadmuri-500467203)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atadmuri)
 [![GitHub](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATadmuri-hub)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.hm1998@gmail.com)
-[![Location](https://img.shields.io/badge/Madrid,_Spain-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white)](https://linkedin.com/in/abdullah-tadmuri-500467203)
+[![Location](https://img.shields.io/badge/Madrid,_Spain-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white)](https://linkedin.com/in/atadmuri)
 
 </div>
 
@@ -269,7 +269,7 @@ Computational social scientist trained across three countries: political science
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-tadmuri-500467203)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atadmuri)
 
 <br/>
 
